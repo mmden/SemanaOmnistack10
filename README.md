@@ -1,2 +1,2 @@
-# semanaOministack10
-Conteúdo desenvolvido na semana OminiStack10
+# Semana OmniStack 10
+Conteúdo desenvolvido na semana Omni Stack 10
