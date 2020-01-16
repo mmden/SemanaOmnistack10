@@ -31,7 +31,7 @@ function App() {
    )
  },[]);  
 
-// TODO: Fazer requisição a API
+// TODO: Fazer requisição a API minutos do video: 1:21:16
  async function handleAddDev(e){
    e.preventDefault();
  }
